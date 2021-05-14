@@ -1,12 +1,19 @@
 # TIMAN --  An Integrated website for Historical Newspaper Collections Research
 
 ## What?
+We aim to build an integrated website for users to upload the files and the system will do text analysis, visualizations and queries automatically, currently we have some links and basic functions.
 
-ShiCo is a tool for visualizing time shifting concepts. We refer to a concept as the set of words which are related to a given seed word. ShiCo uses a set of semantic models (word2vec) spanning a number of years to explore how concepts change over time -- words related to a given concept at time *t=0* may differ from the words related to the same concept at time *t=n*. For example:
+### Navigation Bar
+![nav](./src/assets/nav.png)
 
-![Mock concept shift](./ShiCo-master/docs/mockConcept1.png)
-![Mock concept shift](./ShiCo-master/docs/mockConcept2.png)
+### Links
+![link](./src/assets/link.png)
 
+### Word Cloud
+![word](./src/assets/word.png)
+
+### Search Articles
+![sa](./src/assets/sa.png)
 
 ## How to run the code?
 You can use the following command to run the code:
